@@ -1,1 +1,3 @@
-My first readme
+<<<<<<< HEAD
+i am a sotfware developer
+>>>>>>> 
