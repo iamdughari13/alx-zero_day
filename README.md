@@ -1,1 +1,1 @@
-my first readme
+i am a fullstack sotfware developer
